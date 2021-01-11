@@ -32,7 +32,8 @@ We do not have many internships here, nevertheless, students and graduates face 
 | KazDream Technologies | -                   | [click](https://kazdream.kz/en/join/)                                                                                       | - |
 | KazPost               | -                   | [click](https://www.kazpost.kz/ru/internship)                                                                               | - |
 | Beeline               | -                   | [click](https://beeline.kz/ru/hr/internship)                                                                                | - |
-| Chocofamily           | ChocodevInternship | [click](https://chocofamily.kz/ourinternship)                                                                               | - |
+| Chocofamily           | ChocodevInternship  | [click](https://chocofamily.kz/ourinternship)                                                                               | - |
+| Sberbank              | Sber IT School      | [click](https://sberschool.kz/)                                                                               | Frontend (Javascript, React) |
 
 ## Contributing
 
